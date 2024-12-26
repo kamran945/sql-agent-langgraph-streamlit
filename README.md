@@ -13,6 +13,10 @@ This project demonstrates a simple yet powerful way to interact with SQL databas
 
 This is a demo application based on a tutorial provided by LangGraph https://langchain-ai.github.io/langgraph/tutorials/sql-agent/, designed to showcase the potential of using natural language processing (NLP) for database querying. 
 
+
+## Graph
+![alt text](graph.png)
+
 ## Future Improvements
 
 While this is a working prototype, there are several areas for improvement, including:
