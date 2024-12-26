@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "sql-agent-langgraph-streamlit"
+version = "0.1.0"
+description = ""
+authors = ["kamran945 <kamran945@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "src" },
+]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+streamlit = "^1.41.1"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.3.13"
+langchain = "^0.3.13"
+langchain-core = "^0.3.28"
+sqlalchemy = "^2.0.36"
+langchain-groq = "^0.2.2"
+langchain-ollama = "^0.2.2"
+langgraph = "^0.2.60"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
