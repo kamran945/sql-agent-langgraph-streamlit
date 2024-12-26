@@ -11,7 +11,7 @@ This project demonstrates a simple yet powerful way to interact with SQL databas
 - **LangChain Integration**: Leverages LangChain's `from langchain_community.utilities import SQLDatabase` utility to connect and interact with databases effectively.
 - **Streamlit Interface**: A clean and user-friendly interface built with Streamlit for real-time interaction.
 
-This is a demo application based on a tutorial provided by LangGraph [here]https://langchain-ai.github.io/langgraph/tutorials/sql-agent/, designed to showcase the potential of using natural language processing (NLP) for database querying. 
+This is a demo application based on a tutorial provided by LangGraph https://langchain-ai.github.io/langgraph/tutorials/sql-agent/, designed to showcase the potential of using natural language processing (NLP) for database querying. 
 
 ## Future Improvements
 
